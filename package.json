@@ -7,6 +7,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "deploy": "npm run build && node deploy.js",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -14,6 +15,8 @@
     "@astrojs/mdx": "^0.11.5",
     "@astrojs/rss": "^1.0.3",
     "@astrojs/sitemap": "^1.0.0",
-    "astro": "^1.6.0"
+    "@astrojs/svelte": "^1.0.2",
+    "astro": "^1.6.0",
+    "svelte": "^3.52.0"
   }
 }
