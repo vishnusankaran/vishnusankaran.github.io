@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BlogPost.astro"
+layout: "../../layouts/Blog.astro"
 title: "About \"Front-end Web Applications\""
 description: "Things I know about front-end."
 pubDate: "Nov 06 2022"
