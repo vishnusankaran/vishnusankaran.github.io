@@ -125,6 +125,6 @@
   "launch_handler": {
     "client_mode": ["navigate-existing", "auto"]
   },
-  "display_override": ["window-controls-overlay", "standalone", "browser"],
+  "display_override": ["standalone"],
   "handle_links": "preferred"
 }
