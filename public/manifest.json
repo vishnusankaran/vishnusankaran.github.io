@@ -113,6 +113,7 @@
       "purpose": "any"
     }
   ],
+  "lang": "en",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
@@ -124,12 +125,6 @@
   "launch_handler": {
     "client_mode": ["navigate-existing", "auto"]
   },
-  "screenshots": [
-    {
-      "src": "screenshot.jpg",
-      "sizes": "1280x720",
-      "type": "image/jpg",
-      "platform": "wide"
-    }
-  ]
+  "display_override": ["window-controls-overlay", "standalone", "browser"],
+  "handle_links": "preferred"
 }
