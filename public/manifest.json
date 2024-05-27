@@ -1,6 +1,7 @@
 {
   "short_name": "Vishnu's Blog",
   "name": "Vishnu Sankaran | Blog",
+  "description": "This is a blog maintained by Vishnu Sankaran",
   "icons": [
     {
       "src": "/icons/app-32x32.svg",
@@ -84,5 +85,8 @@
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "orientation": "any",
+  "scope": "/"
 }
