@@ -46,13 +46,13 @@
       "purpose": "any"
     },
     {
-      "src": "/pwa-icon-144x144.svg",
+      "src": "/icons/app-144x144.svg",
       "sizes": "144x144",
       "type": "image/svg",
       "purpose": "any"
     },
     {
-      "src": "/pwa-icon-144x144@1x.png",
+      "src": "/icons/app-144x144@1x.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
