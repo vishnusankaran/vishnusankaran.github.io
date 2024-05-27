@@ -1,4 +1,5 @@
 {
+  "id": "io.github.vishnusankaran",
   "short_name": "Vishnu's Blog",
   "name": "Vishnu Sankaran | Blog",
   "description": "This is a blog maintained by Vishnu Sankaran",
@@ -119,5 +120,16 @@
   "dir": "ltr",
   "orientation": "any",
   "scope": "/",
-  "prefer_related_applications": false
+  "prefer_related_applications": false,
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  },
+  "screenshots": [
+    {
+      "src": "screenshot.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpg",
+      "platform": "wide"
+    }
+  ]
 }
